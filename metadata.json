@@ -1,0 +1,6 @@
+{
+  "name": "Memória Política do Brasil",
+  "description": "Linha do tempo interativa e painel de indicadores sociais, econômicos e de desenvolvimento do Brasil ao longo dos governos e mandatos presidenciais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

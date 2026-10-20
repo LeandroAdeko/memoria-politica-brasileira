@@ -1,0 +1,6 @@
+{
+  "summary": "Plano de arquitetura hexagonal e telas de cadastro isoladas para Fatos Políticos, Categorias, Atores e Cenários com persistência em LocalStorage e exportação JSON.",
+  "updatedAt": "2026-10-20T04:18:34.830678523Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
